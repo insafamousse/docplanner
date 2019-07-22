@@ -1,0 +1,97 @@
+.lead-logo{
+    display: flex;
+    justify-content: center;
+
+}
+.lead h1{
+    text-align: center;
+    color: #00b39b;
+}
+.col-2 p{
+    display: flex;
+    width: 50%;
+}
+
+
+
+
+.card-title{
+    color:#fff; 
+}
+
+
+.title{
+    color:#00b39b;
+}
+.services-items{ 
+   margin: 30%;
+     background-color:#3d83df;
+     height: 30px
+}
+.play{
+ background-color:#00ccb1;
+ border-radius: 30px;    
+}
+.margin{
+    margin: -79%;
+    background-color: #3d83df;
+    border-radius: 30px
+}
+.card{
+    border: 0px solid rgba(0,0,0,.125)!important;
+}
+.brands--logos{
+
+    color:#747474;
+}
+.jumbotron{
+    background-color: white;
+    width: 50px;
+}
+.brands-logo{
+    fill:hsla(0,0%,67%,.7);
+}
+.page{
+    color:#747474;
+}
+.inner{
+    background-color: 
+}
+.main{
+    color:#747474;
+}
+.warsaw{
+    font-family:verdana;
+    font-size:14px;
+
+}
+.barcelona{
+    font-family:verdana;
+    font-size:14px;
+}
+.
+istanbul{
+    font-family:verdana;
+    font-size:14px;
+} 
+.card-body{
+    width: 100%;
+    
+}
+.ajout{
+    width: 10%
+}
+.container-full-bg{
+   background-color:ghostwhite;
+}
+/*.border-top{
+    border: 
+
+}*/
+.name{
+color:#00ccb1;
+}
+.card{
+    margin-top: 10%;
+    
+}
